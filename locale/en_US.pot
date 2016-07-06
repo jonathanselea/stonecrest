@@ -1,0 +1,501 @@
+# Chyrp v2.5 Translation File.
+# Copyright (C) 2014 Chyrp Team
+# This file is distributed under the same license as the Chyrp v2.5 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Chyrp v2.5\n"
+"Report-Msgid-Bugs-To: email@chyrp.net\n"
+"POT-Creation-Date: 2014-07-04 18:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FIRST LAST <EMAIL@EXAMPLE.COM>\n"
+"Language-Team: LANGUAGE <EMAIL@EXAMPLE.COM>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: themes/stonecrest/content/comment.twig:3
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: themes/stonecrest/content/comment.twig:7
+#: themes/stonecrest/content/post.twig:63
+msgid "Delete"
+msgstr ""
+
+#: themes/stonecrest/content/comment.twig:8
+msgid "Edit"
+msgstr ""
+
+#: themes/stonecrest/content/comment.twig:9
+msgid "Reply"
+msgstr ""
+
+#: themes/stonecrest/content/comment.twig:10
+msgid "%B %d, %Y, at %I:%M %p"
+msgstr ""
+
+#: themes/stonecrest/content/comment.twig:10
+#, php-format
+msgid "<span class=\"comment_author\">%s</span> on <a href=\"%s\" class=\"permalink\">%s</a>"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:4
+msgid "Toggle"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:5
+msgid "Stats"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:8
+msgid "Queries:"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:9
+msgid "Load Time:"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:9
+msgid "seconds"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:12
+msgid "Queries"
+msgstr ""
+
+#: themes/stonecrest/content/debug.twig:17
+#, php-format
+msgid "Called from <strong>%s</strong> on line <strong>%d</strong> at %ss."
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:16
+msgid "Pinned post"
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:17
+msgid "Private post"
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:18
+msgid "Scheduled post"
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:24
+#: themes/stonecrest/layouts/default.twig:75
+#: themes/stonecrest/pages/view.twig:22
+#, php-format
+msgid "Page %d of %d"
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:32
+msgid "%F %H:%I %Z"
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:32
+msgid "%B %e"
+msgstr ""
+
+#: themes/stonecrest/content/post.twig:38
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/stonecrest/content/post.twig:57
+#: themes/stonecrest/content/sidebar.twig:79
+msgid "Tags"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:5
+#: themes/stonecrest/forms/user/controls.twig:4
+msgid "Controls"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:6
+msgid "Log Out"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:9
+#: themes/stonecrest/content/sidebar.twig:12
+#: themes/stonecrest/forms/user/login.twig:4
+#: themes/stonecrest/forms/user/login.twig:15
+msgid "Log In"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:10
+#: themes/stonecrest/content/sidebar.twig:30
+#: themes/stonecrest/forms/user/register.twig:4
+#: themes/stonecrest/forms/user/register.twig:27
+msgid "Register"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:22
+msgid "Guest"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:22
+#, php-format
+msgid "Welcome, %s!"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:26
+msgid "Toggle Admin Bar"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:32
+msgid "Lost Password?"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:36
+msgid "Networks"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:50
+msgid "Pages"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:66
+msgid "Categories"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:83
+#, php-format
+msgid "%d post tagged &quot;%s&quot;"
+msgid_plural "%d posts tagged &quot;%s&quot;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/stonecrest/content/sidebar.twig:90
+#: themes/stonecrest/content/sidebar.twig:104
+msgid "All &rarr;"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:96
+#: themes/stonecrest/pages/archive.twig:9
+msgid "Archives"
+msgstr ""
+
+#: themes/stonecrest/content/sidebar.twig:100
+#: themes/stonecrest/pages/archive.twig:15
+#: themes/stonecrest/pages/archive.twig:31
+msgid "%B %Y"
+msgstr ""
+
+#: themes/stonecrest/feathers/audio.twig:6
+#: themes/stonecrest/feathers/chat.twig:6
+#: themes/stonecrest/feathers/file.twig:6
+#: themes/stonecrest/feathers/photo.twig:6
+#: themes/stonecrest/feathers/text.twig:6
+#: themes/stonecrest/feathers/video.twig:6
+msgid "Permanent Link to"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:6
+msgid "Log Out &rarr;"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:7
+msgid "Logged in as"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:11
+msgid "Comment"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:13
+msgid "Your Name"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:17
+msgid "Your E-Mail"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:21
+msgid "Your Website"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:30
+msgid "Notify me when others comment on this post"
+msgstr ""
+
+#: themes/stonecrest/forms/comment/new.twig:41
+msgid "Send"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:9
+msgid "(optional)"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:28
+msgid "More Options &darr;"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:32
+msgid "Status"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:34
+msgid "Draft"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:35
+msgid "Public"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:36
+msgid "Private"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:37
+msgid "Scheduled"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:38
+msgid "Registered Only"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:40
+msgid "Group"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:50
+msgid "Pinned?"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:52
+msgid "(shows this post above all others)"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:55
+msgid "Slug"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:59
+msgid "Timestamp"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:64
+msgid "Trackbacks"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:102
+msgid "Save"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:102
+msgid "or"
+msgstr ""
+
+#: themes/stonecrest/forms/post/edit.twig:103
+msgid "Cancel"
+msgstr ""
+
+#: themes/stonecrest/forms/post/submit.twig:7
+msgid "Submit a Text Post"
+msgstr ""
+
+#: themes/stonecrest/forms/post/submit.twig:40
+#: themes/stonecrest/forms/user/lost_password.twig:12
+msgid "Submit"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:7
+msgid "Login"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:10
+msgid "Cannot be changed."
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:14
+msgid "Full Name"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:18
+#: themes/stonecrest/forms/user/register.twig:19
+msgid "E-Mail"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:22
+msgid "Website"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:26
+msgid "New Password?"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:30
+msgid "Confirm"
+msgstr ""
+
+#: themes/stonecrest/forms/user/controls.twig:35
+msgid "Update"
+msgstr ""
+
+#: themes/stonecrest/forms/user/login.twig:7
+#: themes/stonecrest/forms/user/lost_password.twig:8
+#: themes/stonecrest/forms/user/register.twig:7
+msgid "Username"
+msgstr ""
+
+#: themes/stonecrest/forms/user/login.twig:11
+#: themes/stonecrest/forms/user/register.twig:11
+msgid "Password"
+msgstr ""
+
+#: themes/stonecrest/forms/user/lost_password.twig:4
+msgid "Lost Password"
+msgstr ""
+
+#: themes/stonecrest/forms/user/lost_password.twig:6
+msgid "Please enter your username below and we will e-mail you a new password for your account."
+msgstr ""
+
+#: themes/stonecrest/forms/user/register.twig:15
+msgid "Password "
+msgstr ""
+
+#: themes/stonecrest/forms/user/register.twig:15
+msgid "(again)"
+msgstr ""
+
+#: themes/stonecrest/info.yaml:1
+msgid "Stonecrest"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:26
+msgid "Write"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:28
+msgid "Write Draft"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:31
+msgid "Add Page"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:34
+msgid "Your Drafts"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:37
+msgid "Admin"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:39
+msgid "Close"
+msgstr ""
+
+#: themes/stonecrest/layouts/default.twig:83
+msgid "Powered by <a class=\"chyrp\" href=\"http://chyrp.net/\">Chyrp</a>"
+msgstr ""
+
+#: themes/stonecrest/pages/404.twig:5
+msgid "Not Found"
+msgstr ""
+
+#: themes/stonecrest/pages/404.twig:6
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: themes/stonecrest/pages/archive.twig:7
+#: themes/stonecrest/pages/archive.twig:28
+#: themes/stonecrest/pages/archive.twig:31
+#, php-format
+msgid "Archive of %s"
+msgstr ""
+
+#: themes/stonecrest/pages/archive.twig:13
+msgid "%B"
+msgstr ""
+
+#: themes/stonecrest/pages/archive.twig:19
+#: themes/stonecrest/pages/archive.twig:35
+msgid "%d"
+msgstr ""
+
+#: themes/stonecrest/pages/archive.twig:28
+msgid "%B %d, %Y"
+msgstr ""
+
+#: themes/stonecrest/pages/archive.twig:41
+#: themes/stonecrest/pages/index.twig:7
+#: themes/stonecrest/pages/tag.twig:10
+msgid "No Posts"
+msgstr ""
+
+#: themes/stonecrest/pages/archive.twig:42
+msgid "There aren't any posts in the timeframe you specified."
+msgstr ""
+
+#: themes/stonecrest/pages/drafts.twig:5
+msgid "Drafts"
+msgstr ""
+
+#: themes/stonecrest/pages/drafts.twig:10
+msgid "No Drafts"
+msgstr ""
+
+#: themes/stonecrest/pages/drafts.twig:11
+msgid "You don't have any drafts."
+msgstr ""
+
+#: themes/stonecrest/pages/index.twig:8
+msgid "Nothing here yet!"
+msgstr ""
+
+#: themes/stonecrest/pages/search.twig:5
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: themes/stonecrest/pages/search.twig:10
+msgid "No Results"
+msgstr ""
+
+#: themes/stonecrest/pages/search.twig:11
+msgid "Your search did not return any results."
+msgstr ""
+
+#: themes/stonecrest/pages/tag.twig:5
+msgid "Posts tagged with %s"
+msgstr ""
+
+#: themes/stonecrest/pages/tag.twig:12
+msgid "There are no posts with the tag you specified."
+msgstr ""
+
+#: themes/stonecrest/pages/tag.twig:14
+msgid "No tag specified."
+msgstr ""
+
+#: themes/stonecrest/pages/tags.twig:5
+msgid "Tag Maelstrom"
+msgstr ""
+
+#: themes/stonecrest/pages/tags.twig:11
+msgid "No Tags"
+msgstr ""
+
+#: themes/stonecrest/pages/tags.twig:12
+msgid "There aren't any tags yet. Such a shame."
+msgstr ""
+
+#: themes/stonecrest/pages/tags.twig:18
+msgid "To view posts that have tag combinations, separate the tags with \"+\" in the URL (see example below), or view one and click the plus signs next to the tags in the sidebar."
+msgstr ""
+
+#: themes/stonecrest/pages/view.twig:11
+msgid "Comments"
+msgstr ""
+
+#: themes/stonecrest/pages/view.twig:28
+msgid "Comments are not accepted on this entry."
+msgstr ""
+
